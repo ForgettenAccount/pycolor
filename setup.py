@@ -6,5 +6,6 @@ setup(name="pycolor",
       author="ForgettenAccount",
       url="https://github.com/ForgettenAccount/pycolor/",
       packages=["pycolor"],
+      license="Apache 2.0",
       zip_safe=False
 )
